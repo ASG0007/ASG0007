@@ -14,6 +14,8 @@ I'm a passionate Engineer with a keen interest in Software Development, Product 
 ## Projects
 - **SupplySight:** Collaborated on the development of a SaaS-based sales and demand forecasting tool for the food & beverage industry, reducing wastage and increasing profits by leveraging custom machine learning models.
 - **SnapIt:** Engineered a social media application using the MERN stack with JWT and Google OAuth authentication with robust CRUD functionalities and responsive UI allowing users to connect and share content seamlessly.
+- **Pneumonia Detection from Chest X-Ray Images:** Implemented a CNN model to classify chest X-ray images as ‘normal’ or ‘pneumonia’ with 89.53% accuracy, 88.37%
+precision, 95.48% recall, and 91.79% F1-score.
 - **Cryptocurrency Price Prediction:** Developed a model using Binance API and XGBRegressor for live cryptocurrency forecasting, enabling users to make informed trading decisions.
 - **Parkinson's Disease Detection:** Utilized various machine learning algorithms to analyze voice data and predict the presence of disease in individuals.
 - **Inventory Management System:** Developed an ERP project, 'Inventory Management System', on a smaller scale. Implemented core features in C++, optimizing product management, order processing, and inventory statistics for efficient tracking.
