@@ -3,7 +3,7 @@
 I'm a passionate Engineer with a keen interest in Software Development, Product Management, Data Science, and Machine Learning. I love working on projects that solve real-world problems and enhance user experiences.
 
 ## About Me
-- 👀 I’m interested in exploring the intersection of technology and business, particularly in the fields of Product Management and Data Science.
+- 👀 I’m interested in exploring the intersection of technology and business, particularly in the fields of Software Development, Product Management and Data Science.
 - 💼 Check out my [LinkedIn](https://www.linkedin.com/in/aditya-singh-gaharwar-509000213/) and [GitHub](https://github.com/ASG0007) profiles to learn more about my work and projects.
 
 ## Skills
